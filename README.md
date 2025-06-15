@@ -50,7 +50,7 @@ To uncover risk segments and build predictive models using South African car ins
 git clone https://github.com/wondifraw/End-to-End-Insurance-Risk-Analytics-Predictive-Modeling.git
 
 # Navigate to project folder
-cd insurance-risk-modeling-week3
+cd End-to-End-Insurance-Risk-Analytics-Predictive-Modeling
 
 # Create and activate virtual environment
 python -m venv venv
