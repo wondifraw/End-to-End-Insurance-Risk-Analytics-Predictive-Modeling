@@ -1,5 +1,5 @@
 .venv
-data/
+dvc-storage/
 # Ignore Python bytecode files
 __pycache__/
 # Ignore Jupyter Notebook checkpoints
