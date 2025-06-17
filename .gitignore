@@ -8,6 +8,3 @@ __pycache__/
 *.pyc
 # Ignore log files
 *.log
-# Ignore coverage reports
-*.coverage
-.dvcignore
