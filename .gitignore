@@ -1,5 +1,4 @@
 .venv
-dvc-storage/
 # Ignore Python bytecode files
 __pycache__/
 # Ignore Jupyter Notebook checkpoints
@@ -8,6 +7,4 @@ __pycache__/
 *.pyc
 # Ignore log files
 *.log
-# Ignore coverage reports
-*.coverage
-.dvcignore
+data/
