@@ -1,5 +1,5 @@
 .venv
-data/
+# data/
 # Ignore Python bytecode files
 __pycache__/
 # Ignore Jupyter Notebook checkpoints
